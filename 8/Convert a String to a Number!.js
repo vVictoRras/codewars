@@ -1,4 +1,5 @@
 const stringToNumber = function(str){
-    // put your code here
-    return null;
+
+    return +str;
 }
+console.log(stringToNumber('1234'))
